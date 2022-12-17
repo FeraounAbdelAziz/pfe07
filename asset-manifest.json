@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pfe07/static/css/main.b19c1087.css",
+    "main.js": "/pfe07/static/js/main.570cd455.js",
+    "index.html": "/pfe07/index.html",
+    "main.b19c1087.css.map": "/pfe07/static/css/main.b19c1087.css.map",
+    "main.570cd455.js.map": "/pfe07/static/js/main.570cd455.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b19c1087.css",
+    "static/js/main.570cd455.js"
+  ]
+}
